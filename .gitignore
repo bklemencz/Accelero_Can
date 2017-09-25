@@ -68,6 +68,12 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.travis.yml
+lib/readme.txt
 
 # Windows Installer files
 *.cab
