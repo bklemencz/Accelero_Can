@@ -83,3 +83,5 @@ lib/readme.txt
 
 # Windows shortcuts
 *.lnk
+.pioenvs
+.piolibdeps
